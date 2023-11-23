@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-u1@k4(!^-j+ve$sv(@v8l&jciy2hc@y4ou4$j!638%@&(b2!q$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['contactlist-ehgy.onrender.com']
 
 
 # Application definition
